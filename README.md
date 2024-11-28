@@ -28,4 +28,4 @@
 
 🔗 **Посетите сайт:** [ushkova-team.ru](https://ushkova-team.ru)    
 
-💼 [Связаться с нами](mailto:tnoob128@gmail.com) | 🌟 [Наши проекты](https://github.com/ColdRayBurn/Completed-projects/blob/main/README.md)  
+💼 [Связаться с нами](mailto:tnoob128@gmail.com) | 🌟 [Наши проекты](https://github.com/ColdRayBurn/Completed-projects/blob/main/README.md) | 📃 [О нас](https://github.com/ColdRayBurn/Ready-made-projects/blob/main/README.md)
